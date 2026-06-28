@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { motion, AnimatePresence, useScroll, useTransform, useInView } from 'framer-motion';
+import { motion, AnimatePresence, useInView } from 'framer-motion';
 import { 
   Mail, 
   ExternalLink, 
@@ -9,10 +9,8 @@ import {
   Globe, 
   Cpu, 
   ChevronDown, 
-  ChevronUp, 
   X, 
   Search, 
-  Filter, 
   Briefcase, 
   GraduationCap, 
   MapPin, 
